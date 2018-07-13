@@ -4,20 +4,20 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/YESIHACK.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://yesihack.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark # Or use dark
 
 # Profile information
 name: Yesihack
-tagline: Computer Specialist / Hacker / Researcher
+tagline: Computer Specialist / Hacker / Security Researcher
 about-description: # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: yesihack@yesihack.io # Add your Email address
-phone: 044 825 5523 # Add your Phone number
-website: artemsheludko.pw # Add your website, do not add http://
+phone: 000 000 0000 # Add your Phone number
+website: yesihack.io # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github: Yesihack # Add your Github handle
 twitter: '@Yesihack' # Add your Twitter handle
