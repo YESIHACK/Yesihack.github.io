@@ -9,7 +9,7 @@ blog_theme: dark # Or use dark
 # Profile information
 name: Yesihack
 tagline: Computer Specialist / Hacker / Security Researcher
-about-description: # Add Discription
+about-description: Just another security researcher discovering new things.
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
