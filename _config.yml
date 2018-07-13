@@ -1,6 +1,6 @@
 title: Yesihack
 description: > # this means to ignore newlines until "baseurl:"
-  Just another security researcher discovering new things.
+  "Just another security researcher discovering new things."
 baseurl: "/YESIHACK.github.io" # the subpath of your site, e.g. /blog
 url: "http://yesihack.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
@@ -9,7 +9,7 @@ blog_theme: dark # Or use dark
 # Profile information
 name: Yesihack
 tagline: Computer Specialist / Hacker / Security Researcher
-about-description: Just another security researcher discovering new things.
+about-description: "Just another security researcher discovering new things."
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
