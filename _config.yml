@@ -5,7 +5,7 @@ baseurl: /YESIHACK.github.io # the subpath of your site, e.g. /blog
 url: https://yesihack.io/* # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark # Or use dark
-enforce_ssl: yesihack.io
+
 
 # Profile information
 name: Yesihack
